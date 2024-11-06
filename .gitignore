@@ -1,0 +1,45 @@
+﻿u# Archivos y carpetas generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación de .NET
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.msi
+*.app
+*.msp
+*.tlog
+
+# Archivos de configuración y bases de datos locales
+*.dbmdl
+*.mdf
+*.ldf
+*.ndf
+
+# Archivos de empaquetado y publicación
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de configuración de usuario de Visual Studio
+.vscode/
+*.code-workspace
+
+# Archivos de backup y temporales
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.
+*.sln
