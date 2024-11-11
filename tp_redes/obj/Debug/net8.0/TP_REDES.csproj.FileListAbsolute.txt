@@ -1,0 +1,14 @@
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\bin\Debug\net8.0\TP_REDES.exe
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\bin\Debug\net8.0\TP_REDES.deps.json
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\bin\Debug\net8.0\TP_REDES.runtimeconfig.json
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\bin\Debug\net8.0\TP_REDES.dll
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\bin\Debug\net8.0\TP_REDES.pdb
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.AssemblyInfoInputs.cache
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.AssemblyInfo.cs
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.dll
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\refint\TP_REDES.dll
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.pdb
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\TP_REDES.genruntimeconfig.cache
+C:\xampp\htdocs\servidor_redes\servidor\tp_redes\obj\Debug\net8.0\ref\TP_REDES.dll
