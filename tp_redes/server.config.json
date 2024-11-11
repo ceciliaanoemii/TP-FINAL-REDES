@@ -1,4 +1,4 @@
 ﻿{
-  "Path": "C:\\xampp\\htdocs\\servidor_redes\\servidor\\tp_redes\\web",
-  "Port": 8080
+  "Ruta": "C:\\xampp\\htdocs\\servidor_redes\\servidor\\tp_redes\\web",
+  "Puerto": 8080
 }

@@ -15,10 +15,9 @@ namespace TP_REDES
         static void Main(string[] args)
         {
             configuracion = ServerConfigLoader.Load();
-            // Crear y arrancar el servidor
-            TcpListener server = new TcpListener(IPAddress.Any, configuracion.Port);
+            TcpListener server = new TcpListener(IPAddress.Any, configuracion.Puerto);
             server.Start();
-            Console.WriteLine($"Servidor escuchando en el puerto {configuracion.Port}");
+            Console.WriteLine($"Servidor escuchando en el puerto {configuracion.Puerto}");
 
             while (true)
             {

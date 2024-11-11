@@ -22,18 +22,18 @@ namespace TP_REDES.Handlers
 
                 string[] tokens = requestLine.Split(' ');
                 if (tokens.Length < 2) return;
-                string method = tokens[0];
+                string metodo = tokens[0];
                 string url = tokens[1];
 
                 string clienteIP = ((IPEndPoint)cliente.Client.RemoteEndPoint).Address.ToString();
-                Logger.LogRequest(method, url, clienteIP);
+                Logger.LogRequest(metodo, url, clienteIP);
                 Logger.LogQueryParameters(url);
 
-                if (method == "GET")
+                if (metodo == "GET")
                 {
                     FileHandler.ServeFile(writer, url);
                 }
-                else if (method == "POST")
+                else if (metodo == "POST")
                 {
                     Logger.LogRequestData(reader);
                     writer.WriteLine("HTTP/1.1 200 OK");

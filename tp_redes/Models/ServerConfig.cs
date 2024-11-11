@@ -2,7 +2,7 @@
 {
     public class ServerConfig
     {
-        public int Port { get; set; }
-        public string Path { get; set; }
+        public int Puerto { get; set; }
+        public string Ruta { get; set; }
     }
 }
